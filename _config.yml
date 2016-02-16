@@ -1,7 +1,7 @@
 name: teagles
 favicon: null
-layout_spectrum: 0.4646727405488491
-typography_spectrum: 0.8238137331791222
+layout_spectrum: 0.24658
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5505300601944327
+    - '#231f20'
+    - '#ffb715'
+    - '#d1d1d1'
+    - '#898989'
+    - '#ffffff'
+  brandStrength: 1
   lightness: 0.9154739426448941
   saturation: 0.4693463980220258
   rhythmicContrast: 0.5981390229426324
